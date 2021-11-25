@@ -1,4 +1,5 @@
-# Final CS Project - Vedant Nilabh, Ahmad Saeed, Isabel Finkbeiner
+# Equity and Profitability: Reimagining The City of Dallas’s Budget 
+# Vedant Nilabh
 # making data frames
 import numpy as np
 import pandas as pd
